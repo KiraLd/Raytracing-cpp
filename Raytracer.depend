@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1415554948 source:d:\travail personnel\projet\raytracer\raytracer\main.cpp
+	<iostream>
+	"Point.h"
+	"Objet.h"
+	"Rayon.h"
+	"Sphere.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+
+1415465725 d:\travail personnel\projet\raytracer\raytracer\include\point.h
+	<iostream>
+	<cmath>
+
+1415554345 d:\travail personnel\projet\raytracer\raytracer\include\objet.h
+	"Vect3d.h"
+
+1415554296 d:\travail personnel\projet\raytracer\raytracer\include\vect3d.h
+	"Point.h"
+	<cmath>
+	<iostream>
+
+1415453994 d:\travail personnel\projet\raytracer\raytracer\include\rayon.h
+	"Vect3d.h"
+	"Camera.h"
+	"Objet.h"
+	"Sphere.h"
+
+1415450762 d:\travail personnel\projet\raytracer\raytracer\include\camera.h
+	"Point.h"
+
+1415554384 d:\travail personnel\projet\raytracer\raytracer\include\sphere.h
+	"Objet.h"
+
+1415453328 source:d:\travail personnel\projet\raytracer\raytracer\src\camera.cpp
+	"Camera.h"
+
+1415554341 source:d:\travail personnel\projet\raytracer\raytracer\src\objet.cpp
+	"Objet.h"
+	<stddef.h>
+	<iostream>
+
+1415455671 source:d:\travail personnel\projet\raytracer\raytracer\src\point.cpp
+	"Point.h"
+
+1415554976 source:d:\travail personnel\projet\raytracer\raytracer\src\sphere.cpp
+	"Sphere.h"
+	<cmath>
+	<iostream>
+
+1415555020 source:d:\travail personnel\projet\raytracer\raytracer\src\vect3d.cpp
+	"Vect3d.h"
+	<stddef.h>
+
+1415554851 source:d:\travail personnel\projet\raytracer\raytracer\src\rayon.cpp
+	"Rayon.h"
+	<stddef.h>
+	<cmath>
+	<stdio.h>
+
